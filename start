@@ -1,5 +1,5 @@
 #!/bin/bash
 
-python3 4x-server/server.py &
+python3 /home/pi/4x/4x-server/server.py &
 
-sudo ./4x-armv7l/4x-armv7l &
+sudo /home/pi/4x/4x-armv7l/4x-armv7l &
